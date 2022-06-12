@@ -1,0 +1,138 @@
+panels:
+  panel-7:
+    perm: default
+    rows: 6
+    title: '&8Rang'
+    empty: AIR
+    item:
+      '0':
+        material: MAGENTA_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
+      '1':
+        material: MAGENTA_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
+      '7':
+        material: MAGENTA_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
+      '8':
+        material: MAGENTA_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
+      '9':
+        material: MAGENTA_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
+      '22':
+        material: CHAINMAIL_HELMET
+        stack: 1
+        name: §a§lExplorateur
+        lore:
+        - §f
+        - §f§lGrade par défaut
+        - §f
+        - §fAccès au §d/vip
+      '17':
+        material: MAGENTA_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
+      '28':
+        material: REDSTONE
+        stack: 1
+        name: '&a&lEcuyer'
+        lore:
+        - '&7 Clique pour plus d''&d&lInfo'
+        commands:
+        - cp panel-9
+      '29':
+        material: LAPIS_LAZULI
+        stack: 1
+        name: '&3&lChevalier'
+        lore:
+        - '&7 Clique pour plus d''&d&lInfo'
+        commands:
+        - cp panel-16
+      '30':
+        material: IRON_INGOT
+        stack: 1
+        name: '&9&lMaitre'
+        lore:
+        - '&7 Clique pour plus d''&d&lInfo'
+        commands:
+        - cp panel-11
+      '31':
+        material: GOLD_INGOT
+        stack: 1
+        name: '&c&lBaron'
+        lore:
+        - '&7 Clique pour plus d''&d&lInfo'
+        commands:
+        - cp panel-12
+      '32':
+        material: DIAMOND
+        stack: 1
+        name: '&8&lRoi'
+        lore:
+        - '&7 Clique pour plus d''&d&lInfo'
+        commands:
+        - cp panel-13
+      '33':
+        material: EMERALD
+        stack: 1
+        name: '&e&lEmpereur'
+        lore:
+        - '&7 Clique pour plus d''&d&lInfo'
+        commands:
+        - cp panel-14
+      '34':
+        material: NETHERITE_INGOT
+        stack: 1
+        name: '&d&lDieu'
+        lore:
+        - '&7 Clique pour plus d''&d&lInfo'
+        commands:
+        - cp panel-15
+      '36':
+        material: MAGENTA_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
+      '44':
+        material: MAGENTA_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
+      '45':
+        material: MAGENTA_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
+      '46':
+        material: MAGENTA_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
+      '47':
+        material: ARROW
+        stack: 1
+        name: '&7&lRetour au menu'
+        commands:
+        - cp panel-8
+      '49':
+        material: BARRIER
+        stack: 1
+        name: '&4Quitter le menu'
+        commands:
+        - cpc
+      '51':
+        material: PLAYER_HEAD
+        stack: 1
+        name: '&7%cp-player-name%'
+        lore:
+        - '&eMoney&f: &f%cp-player-balance%$'
+      '52':
+        material: MAGENTA_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
+      '53':
+        material: MAGENTA_STAINED_GLASS_PANE
+        stack: 1
+        name: ''
